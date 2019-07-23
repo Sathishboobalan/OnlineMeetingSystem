@@ -23,7 +23,7 @@ public class EmailSend {
         try{
             String host ="smtp.gmail.com" ;
             String user = "sathishbalucs@gmail.com";
-            String pass = "98425588833";
+            String pass = "***********";
             String to = "gowthamsk1998@gmail.com";
             String from = "sathishbalucs@gmail.com";
             String subject = "This is confirmation number for your expertprogramming account. Please insert this number to activate your account.";
